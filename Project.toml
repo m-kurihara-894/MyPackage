@@ -1,0 +1,4 @@
+name = "MyPackage"
+uuid = "63f06e73-5719-4bbd-8c42-de3e8cce3ad6"
+authors = ["MK <kurihara.m.038@ms.saitama-u.ac.jp>"]
+version = "0.1.0"
